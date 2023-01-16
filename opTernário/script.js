@@ -1,7 +1,9 @@
  // Operador Ternário
 
- let num=10
- res=(!(num%2) ? "Par" : "Ímpar")
+ let num1=10
+ let num2=5
+
+ res=(num1 > num2 ? "Par" : "Ímpar")
  console.log(res)
 
  // 0 = False
