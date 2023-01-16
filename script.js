@@ -1,4 +1,4 @@
-'use strict' // modo estrito
+"use strict" // modo estrito
 
-nome = 'David'
+var nome = 'David'
 console.log('Começamos bem!', nome)
